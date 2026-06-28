@@ -113,9 +113,9 @@ After running the seeders, the following test accounts are available :
 
 | Role | Email | Password |
 |---|---|---|
-| President | president@clubpilot.test | password |
-| Admin | admin@clubpilot.test | password |
-| Member | membre@clubpilot.test | password |
+| President | president@clubpilot.test | ClubPilot1 |
+| Admin | admin@clubpilot.test | ClubPilot2 |
+| Member | membre@clubpilot.test |ClubPilot3 |
 
 ---
 
